@@ -1,4 +1,4 @@
-  <img src="./assets/Job opening.gif"/>
+  <img src="./assets/Job opening.gif" width='900' height='420'/>
 
 <br>
 
