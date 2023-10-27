@@ -1,4 +1,4 @@
-  <img src="./assets/VR Gamer created in After Effects.gif" width='900' height='420'/>
+  <img src="./assets/Job opening.gif"/>
 
 <br>
 
